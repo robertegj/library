@@ -1,5 +1,16 @@
-# library-of-earth
+# library-of-humanity
 human knowledge, kept minimal but complete
+
+
+
+
+## core tenants
+This collection of knowledge should be presented in a way that is *simple to communicate* and thus absorb.
+
+- Brevity
+- Completeness of Instruction
+- Could be used as a survival guide
+
 
 ## todo
 Wanna **help**?
