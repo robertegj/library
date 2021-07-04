@@ -25,6 +25,7 @@ Here's some pages that need added:
 - Computers
     - Operating Systems
     - Programming Languages
-- Edible Mushrooms vs Poison
-- How to start a fire
-- Purifying water
+- Survival
+    - Edible Mushrooms vs Poison
+    - How to start a fire
+    - Purifying water
