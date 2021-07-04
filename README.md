@@ -22,3 +22,9 @@ Here's some pages that need added:
 - Music
     - Guitar Chords
 - Packard Bell Format Numbers
+- Computers
+    - Operating Systems
+    - Programming Languages
+- Edible Mushrooms vs Poison
+- How to start a fire
+- Purifying water
