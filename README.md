@@ -7,5 +7,5 @@ Here's some pages that need added:
 
 - General Index
 - Music
- - Guitar Chords
+-- Guitar Chords
 - Packard Bell Format Numbers
