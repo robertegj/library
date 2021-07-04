@@ -1,4 +1,4 @@
-# library-of-humanity
+# library-of-humanity ✌🕊
 human knowledge, kept minimal but complete
 
 
