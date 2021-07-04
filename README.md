@@ -2,6 +2,8 @@
 human knowledge, kept minimal but complete
 
 
+## index
+links go here
 
 
 ## core tenants
@@ -16,7 +18,7 @@ This collection of knowledge should be presented in a way that is *simple to com
 Wanna **help**?
 Here's some pages that need added:
 
-- General Index
+- General Index (add links)
 - Music
     - Guitar Chords
 - Packard Bell Format Numbers
