@@ -1,4 +1,4 @@
-# the-library-of-earth
+# library-of-earth
 human knowledge, kept minimal but complete
 
 ## todo
