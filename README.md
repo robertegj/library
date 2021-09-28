@@ -1,5 +1,5 @@
-# library-of-humanity ✌🕊
-human knowledge, kept minimal but complete
+# library ✌🕊
+knowledge, kept minimal
 
 
 ## index
