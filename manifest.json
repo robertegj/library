@@ -1,0 +1,9 @@
+{
+    "quizes": [
+        {"AWS-SAA-C02-custom.json":"Custom AWS SAA-C02 Questions"},
+        {"AWS-SAA-C02.json":"AWS Certified Solutions Architect"},
+        {"AWS-SAA-C02-Part2.json":"AWS Certified Solutions Architect (Part 2)"},
+        {"French-101.json":"Basics of the French Language"},
+        {"Human Morality.json":"Human Morality: Being a Good Human"}
+    ]
+}
